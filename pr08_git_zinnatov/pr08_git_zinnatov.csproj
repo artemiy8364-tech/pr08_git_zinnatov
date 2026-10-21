@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{28F25510-249F-40BA-9EAF-DC4A6145DCF0}</ProjectGuid>
+    <ProjectGuid>{4A389D04-CEF7-7A63-7201-D1E72D65FE23}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>pr08_git_zinnatov</RootNamespace>
     <AssemblyName>pr08_git_zinnatov</AssemblyName>
